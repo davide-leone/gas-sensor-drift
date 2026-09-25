@@ -22,6 +22,8 @@ Using a chronological evaluation protocol (Batches 1–5 for training, Batches 6
 2. **Prior Probability Shift:** Performance loss is amplified by severe fluctuations in class frequencies across batches (e.g., Gas 6 accounts for 2.2% of historical training data but jumps to >20% in later batches).
 3. **Adaptive Retraining:** Periodic retraining significantly mitigates temporal degradation across all architectures, narrowing the gap between simple linear models and complex non-linear classifiers.
 
+For a detailed theoretical analysis, detailed methodology, confusion matrix and images diagnoses, please refer to the complete report.
+
 ---
 
 ## Repository Structure
@@ -48,5 +50,3 @@ Using a chronological evaluation protocol (Batches 1–5 for training, Batches 6
     ├── temporal_drift_static.png
     └── temporat_drift_adaptive.png
 ```
-
-For a detailed theoretical analysis, detailed methodology, confusion matrix diagnoses, and full mathematical setup, please refer to the complete report.
