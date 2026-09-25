@@ -6,7 +6,7 @@ The project investigates how temporal drift and prior probability shift impact p
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In real-world applications—such as chemical sensing arrays and High-Performance Computing (HPC) monitoring systems—data distributions evolve over time due to sensor aging, environmental changes, and hardware degradation. 
 
@@ -24,7 +24,7 @@ Using a chronological evaluation protocol (Batches 1–5 for training, Batches 6
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
