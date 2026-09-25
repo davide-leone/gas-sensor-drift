@@ -30,7 +30,7 @@ For a detailed theoretical analysis, detailed methodology, confusion matrix and 
 
 ```
 .
-├── AML - Project Report.pdf    # Full academic project report
+├── Report.pdf    # Full academic project report
 ├── gas_sensor_drift.ipynb      # Main Jupyter Notebook containing analysis & models
 ├── Dataset/                    # Raw gas sensor dataset batches
 │   ├── batch1.dat
