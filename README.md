@@ -8,7 +8,7 @@ The project investigates how temporal drift and prior probability shift impact p
 
 ## Project Overview
 
-In real-world applications—such as chemical sensing arrays and High-Performance Computing (HPC) monitoring systems—data distributions evolve over time due to sensor aging, environmental changes, and hardware degradation. 
+In real-world applications, such as chemical sensing arrays and High-Performance Computing (HPC) monitoring systems, data distributions evolve over time due to sensor aging, environmental changes, and hardware degradation. 
 
 Using a chronological evaluation protocol (Batches 1–5 for training, Batches 6–10 as sequential test sets), this benchmark evaluates five representative classification algorithms across static and adaptive deployment strategies:
 - **Logistic Regression (LogReg)**
